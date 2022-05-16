@@ -9,5 +9,10 @@ public class Main {
         car.engineCap = "V8";
         car.headlights = "white";
         car.regNo = "12345";
+
+
+        System.out.println("welcome to my car");
+        System.out.println("the radio is set to 80MHZ");
+        System.out.println("turn on the A/C");
     }
 }
